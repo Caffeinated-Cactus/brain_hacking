@@ -1,4 +1,5 @@
-Welcome to this repo. I push regularly tools and template useful in both cognitive remediation and basic daily-life. 
+Welcome to this repository! I regularly contribute tools and templates useful for both cognitive remediation and daily life management.
 
-- Executive functioning:
-  - Weekly planner template (distraction free) compatible for printing 
+- Executive Functioning:
+
+  - Weekly planner template (distraction-free) - Compatible for printing
